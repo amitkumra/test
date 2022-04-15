@@ -4,3 +4,4 @@
   Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
   Access-Control-Allow-Headers: Content-Type, authorization
   X-Robots-Tag: nosnippet
+  Referrer-Policy: no-referrer
